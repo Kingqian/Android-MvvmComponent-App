@@ -73,7 +73,7 @@
             android:layout_height="wrap_content"
             android:drawableLeft="@drawable/common_collection"
             android:gravity="center"
-            android:text="收藏"
+            android:text="回复"
             android:textSize="13sp"
             android:textColor="@color/common_color_small_text"
             app:layout_constraintBottom_toBottomOf="@+id/tv_like"
