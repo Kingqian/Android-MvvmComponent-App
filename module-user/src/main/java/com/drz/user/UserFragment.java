@@ -67,7 +67,7 @@ public class UserFragment
     }
 
     private void start(Context context){
-        startActivity(new Intent(context,LoginActivity.class));
+        startActivity(new Intent(context,ChooseActivity.class));
     }
     
     private void initView()

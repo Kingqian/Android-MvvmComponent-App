@@ -3,10 +3,13 @@
     package="com.drz.user">
 
     <application >
-        <activity android:name=".LoginActivity"
+        <activity android:name=".ChooseActivity"
             android:screenOrientation="portrait"
             />
         <activity android:name=".AttentionActivity"/>
+        <activity android:name=".LoginActivity"/>
+        <activity android:name=".RegistryActivity"/>
+
     </application>
 
 </manifest>
